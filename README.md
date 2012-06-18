@@ -1,4 +1,6 @@
-Hadoop
+Hadoop examples
 ======
 
-Hadoop Examples
+Dictionary
+==========
+Takes a sample file of translated words and concatenates different translations for the same word.

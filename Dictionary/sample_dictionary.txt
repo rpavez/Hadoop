@@ -1,0 +1,4 @@
+comprar:buy
+comprar:pedir
+comprar:adquirir
+vender:sell
